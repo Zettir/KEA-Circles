@@ -1,0 +1,34 @@
+/* ----------------------------------------------------------
+	CSS | Style
+   ---------------------------------------------------------- */
+
+body {
+	min-height: 100vh;
+}
+.btm {
+	margin-bottom: 10px;
+}
+.box1 {
+	background-color: #ccc;
+	padding: 10px;
+}
+.box1-border-right {
+	border-right: 10px solid #fff;
+}
+.box2 {
+	background-color: #eee;
+	padding: 10px;
+}
+.box2-border-right {
+	border-right: 10px solid #ccc;
+}
+.box3 {
+	background-color: #fff;
+	padding: 10px;
+}
+.box3-border-right {
+	border-right: 10px solid #eee;
+}
+.inline {
+	display: inline-block
+}
